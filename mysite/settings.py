@@ -25,7 +25,7 @@ SECRET_KEY = 'nq=2f8z(oko739e48j^gu%r1)^17m+2q@wi21qq)==fda14+6i'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [derblog.pythonanywhere.com]
 
 
 # Application definition
